@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "email": "bebo11hany1@gmail.com",
+    "password": "$2b$10$rOvkKjjlvQr7Lm5JQnQjHO8YqKQjH5JQnQjHO8YqKQjH5JQnQjHO8Y",
+    "username": "bebo",
+    "fullName": "Hany Bebo",
+    "address": "Cairo, Egypt",
+    "role": "admin",
+    "balance": 0,
+    "createdAt": "2025-09-05T09:27:00Z"
+  }
+]
